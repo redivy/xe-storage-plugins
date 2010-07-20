@@ -1,0 +1,1 @@
+/etc/xapi.d/plugins/atomicop.py
